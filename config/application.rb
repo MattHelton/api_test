@@ -40,3 +40,5 @@ module ApiTest
     config.api_only = true
   end
 end
+
+## Needs to fix rack to setup authentication
